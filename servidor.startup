@@ -1,0 +1,5 @@
+ifconfig eth0 10.0.0.1/24
+/etc/init.d/dhcp3-server start
+
+
+
